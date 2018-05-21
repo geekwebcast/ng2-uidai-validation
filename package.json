@@ -1,6 +1,6 @@
 {
   "name": "ng2-uidai-validation",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -23,7 +23,12 @@
     "email": "nandangalaxies@gmail.com"
   },
   "keywords": [
-    "angular","angular 2","angular 4","angular 5","aadhaar","uidai"
+    "angular",
+    "angular 2",
+    "angular 4",
+    "angular 5",
+    "aadhaar",
+    "uidai"
   ],
   "license": "MIT",
   "bugs": {
