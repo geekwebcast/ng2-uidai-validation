@@ -1,0 +1,28 @@
+{
+  "name": "ng2-uidai-validation",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trickyfunctions/ng2-uidai-validation.git"
+  },
+  "author": {
+    "name": "nandakumar-r",
+    "email": "nandangalaxies@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trickyfunctions/ng2-uidai-validation.git/issues"
+  },
+  "main": "ng2-uidai-validation.umd.js",
+  "module": "ng2-uidai-validation.js",
+  "jsnext:main": "ng2-uidai-validation.js",
+  "typings": "ng2-uidai-validation.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
